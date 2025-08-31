@@ -29,7 +29,7 @@ Vows & Veils was created to allow smooth wedding planning by providing a central
 
 [https://mango-mushroom-00c4ce01e.2.azurestaticapps.net/](https://mango-mushroom-00c4ce01e.2.azurestaticapps.net/)
 
-1. **Github Repository**
+2. **Github Repository**
     
     Repository link: 
     
